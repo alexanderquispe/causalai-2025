@@ -14,3 +14,10 @@ This is a course in Causal ML at UP. We will learn how to code in R, Python and 
 3. Arrival
 4. Interstellar
 5. Animales Fantasticos
+
+## List of Actors
+1. Marlon Brandon
+2. Denzel Washintong
+3. Anthony Hopkins
+4. Ricardo Darin
+5. Sylvester Groth
