@@ -27,4 +27,4 @@ This is a course in Causal ML at UP. We will learn how to code in R, Python and 
 2. Joseph and Mary
 3. De Jesus
 4. San Agustin
-5. Colegio Guadalupe
+5. Primer Colegio Nacional Benemérito de la República de Nuestra Señora de Guadalupe
