@@ -21,3 +21,10 @@ This is a course in Causal ML at UP. We will learn how to code in R, Python and 
 3. Anthony Hopkins
 4. Ricardo Darin
 5. Sylvester Groth
+
+## List of Schools
+1. Familia Universal
+2. Joseph and Mary
+3. De Jesus
+4. San Agustin
+5. Colegio Guadalupe
